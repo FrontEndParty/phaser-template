@@ -15,7 +15,7 @@
 - [Join the Phaser Community!](#join-the-phaser-community)
 
 
-This is a Phaser 3 project template that uses Vite for bundling. It supports hot-reloading for quick development workflow, includes TypeScript support and scripts to generate production-ready builds. It is a fork off of (the official Phaser Template)[https://github.com/phaserjs/template-webpack-ts] made by FrontEndParty for grab and go game jams.
+This is a Phaser 3 project template that uses Vite for bundling. It supports hot-reloading for quick development workflow, includes TypeScript support and scripts to generate production-ready builds. It is a fork off of [the official Phaser Template](https://github.com/phaserjs/template-webpack-ts) made by FrontEndParty for grab and go game jams.
 
 ## Template Project Structure
 ```
